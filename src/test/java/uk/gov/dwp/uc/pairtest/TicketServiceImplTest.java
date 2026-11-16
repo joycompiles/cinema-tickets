@@ -23,7 +23,7 @@ import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.verifyNoInteractions;
 
 @ExtendWith(MockitoExtension.class)
-class TicketSeyessrviceImplTest {
+class TicketServiceImplTest {
 
     @Mock
     private TicketPaymentService paymentService;
